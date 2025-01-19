@@ -1,4 +1,4 @@
-## NJ_Wealth_GenAI_to-do-list
+## GenAI_to-do-list
 <img width="1440" alt="Screenshot 2025-01-19 at 8 37 56 PM" src="https://github.com/user-attachments/assets/bbe29a5a-c79a-45c4-93d6-bc0f7084f6df" />
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
